@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_B.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_BL.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_BR.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_F.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_FL.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_FR.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_LL.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_LR.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_RL.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/Characters/Souls/Movement/M_Neutral_Stand_Idle_Loop.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/Characters/Souls/Movement/BS_StrafeMovement.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/Characters/Souls/Movement/BS_StrafeMovement2.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/ThirdPerson/Input/Actions/IA_Lock.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/Blueprints/BCP_Combat.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/UI/WB_TargetLock.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/Blueprints/BP_TargetLockWidget.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/W9/ZSA7EU998FKJ5EMB6116JV.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/UI/Icons/Dagger.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/UI/Icons/Target_Lock.uasset",
+				"C:/Users/npant/Documents/Unreal Projects/SoulslikeUE5/Content/UI/Icons/Heal.uasset"
+			]
+		}
+	]
+}
